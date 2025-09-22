@@ -1,0 +1,9 @@
+{
+  "name": "DoubleUp NFT",
+  "description": "An NFT that doubles in price every sale. 10% fee goes to the creator.",
+  "image": "ipfs://QmYourImageHashHere/image.png",
+  "attributes": [
+    { "trait_type": "Step", "value": 1 },
+    { "trait_type": "Creator Fee", "value": "10%" }
+  ]
+}
