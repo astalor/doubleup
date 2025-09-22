@@ -1,5 +1,5 @@
 {
-  "name": "ycard-static",
+  "name": "doubleup",
   "compatibility_date": "2025-09-22",
   "assets": { "directory": "./public" },
   "routes": [
